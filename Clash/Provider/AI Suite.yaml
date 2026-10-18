@@ -286,6 +286,8 @@ payload:
 
   # > Sora
   - DOMAIN-SUFFIX,sora.com
+  # > muse
+  - DOMAIN-SUFFIX,muse.ai
 
   # > TRAE International
   # Hong Kong is absent from the current service availability list
