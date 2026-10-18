@@ -258,6 +258,8 @@ payload:
 
   # > Meta AI
   - DOMAIN-SUFFIX,meta.ai
+  - DOMAIN-SUFFIX,muse.ai
+  - DOMAIN-SUFFIX,hatch.metaaivm.com
 
   # > Microsoft Copilot
   # Retained for macOS app availability; web/mobile support alone is insufficient
@@ -286,8 +288,6 @@ payload:
 
   # > Sora
   - DOMAIN-SUFFIX,sora.com
-  # > muse
-  - DOMAIN-SUFFIX,muse.ai
 
   # > TRAE International
   # Hong Kong is absent from the current service availability list
