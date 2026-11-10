@@ -273,6 +273,7 @@ payload:
   # https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/
   - DOMAIN-SUFFIX,meta.ai
   - DOMAIN-SUFFIX,muse.ai
+  - DOMAIN-SUFFIX,metaaivm.com
 
   # > Microsoft Copilot
   # Retained for macOS app availability; web/mobile support alone is insufficient
